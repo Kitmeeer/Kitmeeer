@@ -147,6 +147,26 @@ hobbies: [Coding, Tech Blogs, Coffee, Travel]
 
 </details>
 
+<details open>
+<summary><b>📱 Social Media Management</b></summary>
+<br>
+
+✨ Content Strategy & Planning  
+🎨 Visual Design with Canva  
+📅 Post Scheduling & Automation  
+📈 Audience Growth & Engagement  
+📊 Analytics & Performance Tracking
+
+**Platforms:**
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)
+
+</details>
+
 ---
 
 ## 💻 Tech Stack
