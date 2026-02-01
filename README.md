@@ -39,7 +39,7 @@ name: Muhammad Idrees
 location: Remote 🌍
 status: Available for Freelance 🟢
 education: 
-  - Self-Taught Developer
+  - BS Chemistry
   - Business Management
 company: ExpertsGrow
 
