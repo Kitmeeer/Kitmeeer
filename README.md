@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Idrees
+# 👋 Hi, I'm M Adrees Kitmeer.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Freelancer+%26+Digital+Consultant;Full+Stack+Developer;Founder+of+ExpertsGrow;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 
