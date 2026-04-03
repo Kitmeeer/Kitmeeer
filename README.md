@@ -35,7 +35,7 @@
 ### 📋 Quick Info
 
 ```yaml
-name: Muhammad Idrees
+name: M Adrees Kitmeer
 location: Remote 🌍
 status: Available for Freelance 🟢
 education: 
